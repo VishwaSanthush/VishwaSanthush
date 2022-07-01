@@ -22,3 +22,6 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaSanthush&langs_count=10&show_icons=true&theme=radical">
+
+
+<a href="https://stardev.io/developers/VishwaSanthush"><img alt="Check out VishwaSanthush's profile on stardev.io" src="https://stardev.io/developers/VishwaSanthush/badge/languages/global.svg" /></a>
