@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with Game Developing
 - 💬 Ask me about I'm obsessed...!
 - 📫 How to reach me: via assap Instagram ( santhuxh )
-- 😄 Pronouns: noizer" ...
+- 😄 Pronouns: noizer"
 - ⚡ Fun fact: Loading...
 
 
