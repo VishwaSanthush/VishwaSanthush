@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on as a Undergraduate student
 - 🌱 I’m currently learning University of SIBA...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Game Developing
+- 🤔 I’m looking for help with Game Developing.
 - 💬 Ask me about I'm obsessed...!
 - 📫 How to reach me: via assap Instagram ( santhuxh )
 - 😄 Pronouns: noizer"
