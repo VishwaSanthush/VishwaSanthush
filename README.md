@@ -10,7 +10,7 @@
 - 💬 Ask me about I'm Obsessed...!
 - 📫 How to reach me: via assap Instagram ( santhuxh )
 - 😄 Pronouns: noizer"
-- ⚡ Fun fact: Loading...
+- ⚡ Fun fact: Loading..
 
 
 [![VishwaSanthush's github trophy](https://github-profile-trophy.vercel.app/?username=VishwaSanthush&row=2)](https://github.com/VishwaSanthush/github-profile-trophy)
